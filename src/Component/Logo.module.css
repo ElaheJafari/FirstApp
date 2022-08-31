@@ -1,0 +1,21 @@
+.container {
+    padding: 70px 0;
+}
+
+.titr {
+    color: #5c5c5c;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.images img {
+    width: 25%;
+    border-radius: 15px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}

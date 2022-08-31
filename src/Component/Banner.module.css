@@ -1,0 +1,19 @@
+.imageb img {
+    width: 100%;
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 100px;
+    font-size: 50px;
+    color: #fff;
+    line-height: 70px;
+}
+
+.title p:last-child span {
+    color: rgb(82 172 255);
+}
+.title p:first-child{
+    font-weight: bold;
+}
